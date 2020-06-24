@@ -4,3 +4,4 @@ sudo usermod -aG docker $USER
 newgrp - docker
 sudo apt install -y redis
 sudo systemctl disable redis
+sudo apt install -y postgresql-client
