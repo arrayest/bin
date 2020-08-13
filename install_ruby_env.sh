@@ -26,7 +26,7 @@ source ~/.zshrc
 sudo apt install -y libssl-dev libreadline-dev zlib1g-dev autoconf bison build-essential libyaml-dev libreadline-dev libncurses5-dev libffi-dev libgdbm-dev libxml2-dev libxslt1-dev libcurl4-openssl-dev software-properties-common
 sudo apt install -y libpq-dev libsqlite3-dev sqlite3
 
-ruby_version=2.6.6
+ruby_version=2.7.1
 rbenv install $ruby_version -v
 rbenv global $ruby_version
 unset ruby_version

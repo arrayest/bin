@@ -16,7 +16,7 @@ fi
 # source zshrc
 source ~/.zshrc
 
-python_version=3.8.2
+python_version=3.8.5
 pyenv install $python_version -v
 pyenv global $python_version
 unset python_version
