@@ -1,0 +1,10 @@
+ancare.net,
+typora.io,
+bing.com,
+reactjs.org,
+microsoft.com,
+skype.com,
+babeljs.io,
+babel.dev,
+qiuzhi99.com,
+yougexiangfa.com
